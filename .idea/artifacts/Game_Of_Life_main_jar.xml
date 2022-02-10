@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Game_Of_Life.main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Game_Of_Life_main_jar</output-path>
+    <root id="archive" name="Game_Of_Life.main.jar">
+      <element id="module-output" name="Game_Of_Life.main" />
+    </root>
+  </artifact>
+</component>
